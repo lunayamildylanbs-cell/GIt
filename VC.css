@@ -27,3 +27,20 @@ h1:hover{
     transform: scale(1.1);
     color: #ffcc00;
 }
+
+
+
+
+#contacto2 button {
+    padding: 12px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#contacto2 button:hover {
+    background-color: #0056b3;
+}
